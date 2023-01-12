@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: #adadad;
+}
+
+main{
+    padding: 1rem 2rem;
+}
+
+h2{
+    padding: 1rem 0;
+    font-size: 2rem;
+    text-transform: capitalize;
+    text-shadow:2px 5px 10px #000;
+    text-align: center;
+
+}
+.menu-ul-own{
+    padding-top: 1rem;
+}
